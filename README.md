@@ -21,7 +21,7 @@ Node.js · Express.js · Handlebars.js · Sequelize · MySQL · bcrypt · expres
 **Prerequisites:** Node.js and MySQL
 
 ```bash
-git clone https://github.com/Archils/MVC-Tech-Blog.git
+git clone https://github.com/Archo2/MVC-Tech-Blog.git
 cd MVC-Tech-Blog
 npm install
 ```
@@ -46,5 +46,5 @@ npm install
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
